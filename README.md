@@ -2,6 +2,8 @@
 
 Using a set of mock customer data, the task is to predict outcomes of loans: Whether they will default or not.
 
+This constitutes a binary classification problem.
+
 First, the dataset is analysed and features are selected. Then a variety of models are trained with a very concise amount of code.
 
 The two best performing models are tuned further and saved for use to infer outcome probabilities from future datapoints.
